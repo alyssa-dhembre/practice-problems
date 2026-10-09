@@ -1,0 +1,6 @@
+numbers = (100,200,300,400,500)
+maximum = max(numbers)
+minimum = min(numbers)
+print("Tuple: ", numbers)
+print("Maximum number: ", maximum)
+print("Minimum number: ", minimum)
